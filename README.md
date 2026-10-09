@@ -124,34 +124,19 @@ The website was successfully deployed and is accessible through its S3 static we
 ## Screenshots of Important Configurations and Results
 
 ### 1. S3 Bucket Objects
-
-Shows the website files uploaded to the S3 bucket.
-
-![S3 Bucket Objects](screenshots/01-s3-bucket-objects.png)
+![S3 Bucket Objects](01-s3-bucket-objects.png)
 
 ### 2. Static Website Hosting
-
-Shows that static website hosting is enabled and displays the website endpoint.
-
-![Static Website Hosting](screenshots/02-static-website-hosting.png)
+![Static Website Hosting](02-static-website-hosting.png)
 
 ### 3. Bucket Permissions
-
-Shows the public access configuration and bucket policy used for website access.
-
-![Bucket Permissions](screenshots/03-bucket-permissions.png)
+![Bucket Permissions](03-bucket-permission.png)
 
 ### 4. Live Website
-
-Shows the successfully deployed website running in a web browser.
-
-![Live Website](screenshots/04-live-website.png)
+![Live Website](04-live-website.png)
 
 ### 5. Python Boto3 Deployment
-
-Shows the successful execution of the Python deployment script and the uploaded file count.
-
-![Python Boto3 Deployment](screenshots/05-python-boto3-deployment.png)
+![Python Boto3 Deployment](05-python-boto3-deployment.png)
 
 ## How to Run or Deploy the Project
 
