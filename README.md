@@ -124,7 +124,7 @@ The website was successfully deployed and is accessible through its S3 static we
 ## Screenshots of Important Configurations and Results
 
 ### 1. S3 Bucket Objects
-![S3 Bucket Objects](./01-s3-bucket-objects.png)
+![S3 Bucket Objects](01-s3-bucket-objects.png)
 
 ### 2. Static Website Hosting
 ![Static Website Hosting](02-static-website-hosting.png)
